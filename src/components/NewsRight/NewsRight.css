@@ -1,0 +1,22 @@
+.col-5 {
+  background: #f5fffa;
+  border: 1px solid #93afb7;
+}
+
+.image3 {
+  height: 150px;
+  width: 132px;
+  float: right;
+}
+
+.border1 {
+  background: #cedff2;
+  border-color: #a3b0bf;
+  border: 1px solid #aaa;
+}
+
+.image4 {
+  height: 150px;
+  width: 130px;
+  float: right;
+}

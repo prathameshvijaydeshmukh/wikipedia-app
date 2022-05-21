@@ -1,0 +1,21 @@
+.col-7 {
+  background: #f5fffa;
+  border: 1px solid #93afb7;
+}
+
+.border {
+  background-color: #d0f3e1;
+  border-color: #a3bfb1;
+}
+
+image2 {
+  height: 150px;
+  width: 130px;
+  float: right;
+}
+
+.image6 {
+  height: 170px;
+  width: 130px;
+  float: left;
+}
