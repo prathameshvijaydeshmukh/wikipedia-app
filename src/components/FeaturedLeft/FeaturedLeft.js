@@ -2,15 +2,16 @@ import "./FeaturedLeft.css";
 
 export default function FeaturedLeft() {
   return (
-    <div className="col-7 px-0 mt-2">
+    <div className="col-7 px-0 mt-1">
       <h5 className="border mt-1 mt-2 mx-2">
         <span className="ml-2">From today's featured article</span>
       </h5>
       <img
         className="image6 pr-3 mx-2"
         src="image/G-8_and_His_Battle_Aces_April_1934.jpg"
+        alt="battel aces"
       />
-      <br />
+
       <p className="font-weight-normal mx-2">
         The <a href="#">double florin</a> or four-shilling piece, was produced
         by the <a href="#">Royal Mint </a>between 1887 and 1890, and was one of
@@ -37,8 +38,9 @@ export default function FeaturedLeft() {
         <span className="ml-2">Did you Know...</span>
       </h5>
       <img
-        className="image2 px-1 mx-2"
+        className="image2 px-1 mx-2 float-left"
         src="image/Ronnie_O’Sullivan_at_Snooker_German_Masters_(DerHexer)_2015-02-06_09_(cropped).jpg"
+        alt="Ronnie"
       />
       <p className="font-weight-normal mx-2">
         <a href="#"> Ron Miles</a> who would have turned 59 today, played in the

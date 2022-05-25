@@ -12,7 +12,6 @@ export default function Header() {
             Talk
           </a>
           <a className="contribution px-1" href="#">
-            {" "}
             Contributions
           </a>
           <a className="create account px-1" href="#">
@@ -24,7 +23,7 @@ export default function Header() {
         </div>
       </div>
       {/* Bottom text */}
-      <div className="down-menu d-flex mt-5 justify-content-lg-start">
+      <div className="down-menu d-flex mt-5 justify-content-between">
         <div className="ml-4">
           <a className="mp">Main Page</a>
           <a className="talk px-2" href="#">

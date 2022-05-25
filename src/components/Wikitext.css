@@ -1,6 +1,15 @@
 .box1 {
-  width: 955px;
+  height: 120px;
   margin-top: 10px;
   background-color: rgb(247 243 243);
   border: 1px solid #aaa;
+}
+
+.top-text {
+  font-size: 152%;
+  font-family: inherit;
+}
+
+.small-text {
+  font-size: 95%;
 }

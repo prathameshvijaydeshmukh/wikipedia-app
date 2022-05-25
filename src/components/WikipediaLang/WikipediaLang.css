@@ -1,0 +1,59 @@
+.div10 {
+  width: 100%;
+}
+
+.lastdiv {
+  list-style: none;
+  text-align: center;
+  clear: both;
+}
+
+.lastdiv-text {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  padding-top: 1em;
+  margin: 0 auto;
+}
+.single-line {
+  width: 100%;
+  height: 1px;
+  margin: 0.5em 0;
+  background-color: #c8ccd1;
+  flex-shrink: 1;
+  align-self: center;
+}
+.number {
+  padding: 0 1em;
+  white-space: nowrap;
+}
+.single-line1 {
+  width: 100%;
+  height: 1px;
+  margin: 0.5em 0;
+  background-color: #c8ccd1;
+  flex-shrink: 1;
+  align-self: center;
+}
+.text-line {
+  margin-left: 0;
+}
+
+.text-line-1 {
+  margin: 0;
+  display: inline;
+}
+
+ul .mid-list {
+  margin-left: 0;
+  gap: 33px;
+}
+
+.mid-list1 {
+  margin: 0;
+  display: inline;
+}
+
+.anchor-text {
+  white-space: nowrap;
+}

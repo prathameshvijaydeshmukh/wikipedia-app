@@ -2,13 +2,12 @@ import "./NewsRight.css";
 
 export default function NewsRight() {
   return (
-    <div class="div4 col-5 mt-2">
-      <h5 class="border1 mt-2">
-        <span class="ml-2">In the news</span>
+    <div className="div4 col-5 mt-1">
+      <h5 className="border1 mt-2">
+        <span className="ml-2">In the news</span>
       </h5>
-      <img class="image3 px-1" src="image/Crab_spider.jpg.webp" />
-      <br />
-      <p class="font-weight-normal">
+      <img className="image3 px-1" src="image/Crab_spider.jpg.webp" />
+      <p className="font-weight-normal">
         In horse racing, Rich Strike wins the Kentucky Derby. Sinn Féin, led by
         Michelle O'Neill (pictured), win the most seats in the Northern Ireland
         Assembly election. Ronnie O'Sullivan wins the World Snooker
@@ -16,8 +15,8 @@ export default function NewsRight() {
         elected as the new Prime Minister of Montenegro by the Parliament.(
         <a href="#">Full article...</a>)
       </p>
-      <h5 class="border mt-2">
-        <span class="ml-2">On this day</span>
+      <h5 className="border mt-2">
+        <span className="ml-2">On this day</span>
       </h5>
       <img class="image4 px-1" src="image/Crab_spider.jpg.webp" />
       <p class="font-weight-normal">
