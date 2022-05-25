@@ -8,7 +8,7 @@ export default function FeaturedPicture() {
         <h5 className="border1 mt-2 text-justify">
           <span className="ml-2">Today's featured picture</span>
         </h5>
-        <img className="image px-3" src="image/Crab_spider.jpg.webp" />
+        <img className="image px-1" src="image/Crab_spider.jpg.webp" />
         <p>
           Hattie Wyatt Caraway (1878-1950) was an American politician who became
           the first woman elected to serve a full term as a United States
