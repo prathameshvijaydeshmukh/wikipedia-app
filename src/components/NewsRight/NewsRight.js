@@ -4,7 +4,7 @@ export default function NewsRight() {
   return (
     <div className="div4 col-5 mt-1">
       <h5 className="border1 mt-2">
-        <span className="ml-2">In the news</span>
+        <span className="ml-2 txt">In the news</span>
       </h5>
       <img className="image3 px-1" src="image/Crab_spider.jpg.webp" />
       <p className="font-weight-normal">
@@ -16,7 +16,7 @@ export default function NewsRight() {
         <a href="#">Full article...</a>)
       </p>
       <h5 className="border mt-2">
-        <span className="ml-2">On this day</span>
+        <span className="ml-2 txt">On this day</span>
       </h5>
       <img class="image4 px-1" src="image/Crab_spider.jpg.webp" />
       <p class="font-weight-normal">

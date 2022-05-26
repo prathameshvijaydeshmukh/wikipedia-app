@@ -8,3 +8,9 @@
   border-color: #a3b0bf;
   border: 1px solid #aaa;
 }
+
+.txt {
+  font-size: 90%;
+  font-weight: bold;
+  font-family: inherit;
+}

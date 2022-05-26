@@ -78,25 +78,25 @@ export default function SisterProject() {
     <div className="div8 bg-transparent">
       <div>
         <h5 className="border1 mt-2 text-justify mx-2">
-          <span className="ml-2">wikipedia's sister projects</span>
+          <span className="ml-2 txt">wikipedia's sister projects</span>
         </h5>
         <p className="font-weight-normal mt-3 ml-2">
           Wikipedia is written by volunteer editors and hosted by the
-          <a href="#">Wikimedia Foundation</a> , a non-profit organization that
-          also hosts a volunteer
-          <a href="#">projects:</a>
+          <a href="#"> Wikimedia Foundation </a> , a non-profit organization
+          that also hosts a volunteer
+          <a href="#"> projects:</a>
         </p>
         <div class="div9">
           <ul type="none" class="wiki-sis d-flex flex-wrap pl-0">
             {sisterdata.map((list, i) => (
               <li class="d-flex list" key={i}>
-                <div class="logo-sm ml-2">
+                <div class="logo-sm ml-2 px-3">
                   {console.log(list.image)}
                   <img class="logo-img mt-2" src={list.image} />
                 </div>
                 <div class="text">
                   <div>
-                    <a href="#">{list.title}</a>
+                    <a href="https://www.google.com/">{list.title}</a>
                   </div>
 
                   <div>{list.Value}</div>

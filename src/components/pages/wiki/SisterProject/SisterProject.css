@@ -30,3 +30,9 @@
   height: 35px;
   width: 35px;
 }
+
+.txt {
+  font-size: 90%;
+  font-weight: bold;
+  font-family: inherit;
+}

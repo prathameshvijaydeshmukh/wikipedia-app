@@ -12,13 +12,13 @@ export default function OtherAreas() {
     {
       title: "Village pump",
       value:
-        "The central hub for editors, with resources, links, tasks, and announcements.",
+        "Forum for discussions about Wikipedia itself, including policies and technical issues.",
     },
 
     {
       title: "Site news",
       value:
-        "The central hub for editors, with resources, links, tasks, and announcements.",
+        "Sources of news about Wikipedia and the broader Wikimedia movement.",
     },
     {
       title: "Site news",
@@ -42,7 +42,7 @@ export default function OtherAreas() {
     <div className="border mt-1 mx-5 bg-transparent">
       <div className="div px-2">
         <h5 className="border mt-2 text-justify ">
-          <span className="ml-2">Other areas 0f wikipedia</span>
+          <span className="ml-2 txt">Other areas 0f wikipedia</span>
         </h5>
         <ul className="text-justify " type="disc">
           {otherAreadata.map((info, i) => (

@@ -4,7 +4,7 @@ export default function FeaturedLeft() {
   return (
     <div className="col-7 px-0 mt-1">
       <h5 className="border mt-1 mt-2 mx-2">
-        <span className="ml-2">From today's featured article</span>
+        <span className="ml-2 txt">From today's featured article</span>
       </h5>
       <img
         className="image6 pr-3 mx-2"
@@ -18,10 +18,10 @@ export default function FeaturedLeft() {
         the shortest-lived of all denominations of
         <a href="#"> British coinage </a>Its <a href="#">obverse</a>, designed
         by <a href="#"> Joseph Boehm </a> and engraved by
-        <a href="#">Leonard Charles Wyon,</a> depicts
-        <a href="#">Queen Victoria,</a> whilst the reverse (pictured), featuring
-        national symbols of the<a href="#"> United Kingdom,</a>was designed by
-        Wyon based on the coinage of
+        <a href="#"> Leonard Charles Wyon,</a> depicts
+        <a href="#"> Queen Victoria,</a> whilst the reverse (pictured),
+        featuring national symbols of the<a href="#"> United Kingdom,</a>was
+        designed by Wyon based on the coinage of
         <a href="#"> Charles II.</a> When issued in June 1887, the Jubilee
         coinage, of which the double florin was a part, provoked an outcry. The{" "}
         <a href="#"> small royal </a>crown Boehm had depicted on Victoria's head
@@ -35,7 +35,7 @@ export default function FeaturedLeft() {
         <br />(<a href="#">Full article...</a>)
       </p>
       <h5 className="border mt-2 mx-2">
-        <span className="ml-2">Did you Know...</span>
+        <span className="ml-2 txt">Did you Know...</span>
       </h5>
       <img
         className="image2 px-1 mx-2 float-left"

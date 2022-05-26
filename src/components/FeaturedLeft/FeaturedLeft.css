@@ -19,3 +19,9 @@ image2 {
   width: 130px;
   float: left;
 }
+
+.txt {
+  font-size: 90%;
+  font-weight: bold;
+  font-family: inherit;
+}

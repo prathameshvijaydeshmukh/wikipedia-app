@@ -20,3 +20,9 @@
   width: 130px;
   float: right;
 }
+
+.txt {
+  font-size: 90%;
+  font-weight: bold;
+  font-family: inherit;
+}

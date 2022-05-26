@@ -6,7 +6,7 @@ export default function FeaturedPicture() {
     <div className="div6 border bg-transparent">
       <div className="d-5 mt-1 px-3">
         <h5 className="border1 mt-2 text-justify">
-          <span className="ml-2">Today's featured picture</span>
+          <span className="ml-2 txt">Today's featured picture</span>
         </h5>
         <img className="image px-1" src="image/Crab_spider.jpg.webp" />
         <p>

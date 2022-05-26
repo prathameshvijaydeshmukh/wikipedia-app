@@ -49,7 +49,7 @@ function WikipediaLang() {
     <div class="div10">
       <div>
         <h5 class="border mt-2 text-justify mx-2">
-          <span class="ml-2">Wikipedia languages</span>
+          <span class="ml-2 txt">Wikipedia languages</span>
         </h5>
         <p class="font-weight-normal mt-3 ml-3">
           This Wikipedia is written in
